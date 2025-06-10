@@ -43,7 +43,7 @@ Through structured practice, I covered:
 ## 📬 Contact
 
 Let’s connect or collaborate:  
-[LinkedIn](www.linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
 
 ---
 **Created by:** *Danny O'Keefe*  
